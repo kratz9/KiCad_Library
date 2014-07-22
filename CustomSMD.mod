@@ -1,0 +1,138 @@
+PCBNEW-LibModule-V1  7/18/2014 7:04:44 PM
+# encoding utf-8
+Units mm
+$INDEX
+QFN_3X3_HANDSOLDER
+$EndINDEX
+$MODULE QFN_3X3_HANDSOLDER
+Po 0 0 0 15 53C9B5D3 00000000 ~~
+Li QFN_3X3_HANDSOLDER
+Sc 0
+AR 
+Op 0 0 0
+.SolderMask 0.05
+.LocalClearance 0.05
+T0 -0.5 3.5 1 1 0 0.15 N V 21 N "QFN_3X3_HANDSOLDER"
+T1 0.5 5 1 1 0 0.15 N V 21 N "VAL**"
+DC -1.785 -1.71 -1.665 -1.65 0.15 21
+$PAD
+Sh "17" R 1.8 1.8 0 0 900
+Dr 1 0 0 O 1 1
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "16" O 0.3 0.75 0 0 0
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 -1.475
+$EndPAD
+$PAD
+Sh "15" O 0.3 0.75 0 0 0
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 -1.475
+$EndPAD
+$PAD
+Sh "14" O 0.3 0.75 0 0 0
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 -1.475
+$EndPAD
+$PAD
+Sh "13" O 0.3 0.75 0 0 0
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 -1.475
+$EndPAD
+$PAD
+Sh "5" O 0.3 0.75 0 0 0
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 1.475
+$EndPAD
+$PAD
+Sh "6" O 0.3 0.75 0 0 0
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 1.475
+$EndPAD
+$PAD
+Sh "7" O 0.3 0.75 0 0 0
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 1.475
+$EndPAD
+$PAD
+Sh "8" O 0.3 0.75 0 0 0
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 1.475
+$EndPAD
+$PAD
+Sh "9" O 0.3 0.75 0 0 900
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.475 0.75
+$EndPAD
+$PAD
+Sh "10" O 0.3 0.75 0 0 900
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.475 0.25
+$EndPAD
+$PAD
+Sh "11" O 0.3 0.75 0 0 900
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.475 -0.25
+$EndPAD
+$PAD
+Sh "12" O 0.3 0.75 0 0 900
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.475 -0.75
+$EndPAD
+$PAD
+Sh "4" O 0.3 0.75 0 0 900
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.475 0.75
+$EndPAD
+$PAD
+Sh "3" O 0.3 0.75 0 0 900
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.475 0.25
+$EndPAD
+$PAD
+Sh "2" O 0.3 0.75 0 0 900
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.475 -0.25
+$EndPAD
+$PAD
+Sh "1" O 0.3 0.75 0 0 900
+Dr 0 0 0 O 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.475 -0.75
+$EndPAD
+$EndMODULE QFN_3X3_HANDSOLDER
+$EndLIBRARY

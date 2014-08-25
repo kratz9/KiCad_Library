@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.3  Date: 8/24/2014 2:35:56 PM
+#encoding utf-8
+#
+# WIRE2
+#
+DEF WIRE2 U 0 40 Y Y 1 F N
+F0 "U" 0 0 60 H V C CNN
+F1 "WIRE2" 0 0 60 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+S -200 800 200 100 0 1 0 N
+X 1 1 -500 600 300 R 50 50 1 1 B
+X 2 2 -500 300 300 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

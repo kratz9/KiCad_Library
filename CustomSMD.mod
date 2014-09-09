@@ -1,8 +1,9 @@
-PCBNEW-LibModule-V1  7/18/2014 7:04:44 PM
+PCBNEW-LibModule-V1  9/8/2014 11:09:11 PM
 # encoding utf-8
 Units mm
 $INDEX
 QFN_3X3_HANDSOLDER
+SMD-16
 $EndINDEX
 $MODULE QFN_3X3_HANDSOLDER
 Po 0 0 0 15 53C9B5D3 00000000 ~~
@@ -135,4 +136,126 @@ Ne 0 ""
 Po -1.475 -0.75
 $EndPAD
 $EndMODULE QFN_3X3_HANDSOLDER
+$MODULE SMD-16
+Po 0 0 0 15 540E7D62 00000000 ~~
+Li SMD-16
+Sc 0
+AR 
+Op 0 0 0
+T0 0.0889 -1.7526 1 1 0 0.15 N V 21 N "SMD-16"
+T1 5.6515 -1.778 1 1 0 0.15 N V 21 N "VAL**"
+DC -2.9 8.3 -2.4 8.1 0.15 21
+$PAD
+Sh "1" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 9
+$EndPAD
+$PAD
+Sh "2" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 9
+$EndPAD
+$PAD
+Sh "3" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 9
+$EndPAD
+$PAD
+Sh "4" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.62 9
+$EndPAD
+$PAD
+Sh "5" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.16 9
+$EndPAD
+$PAD
+Sh "6" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 9
+$EndPAD
+$PAD
+Sh "7" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15.24 9
+$EndPAD
+$PAD
+Sh "8" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17.78 9
+$EndPAD
+$PAD
+Sh "9" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17.78 0
+$EndPAD
+$PAD
+Sh "10" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15.24 0
+$EndPAD
+$PAD
+Sh "11" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 0
+$EndPAD
+$PAD
+Sh "12" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.16 0
+$EndPAD
+$PAD
+Sh "13" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "14" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "15" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "16" R 1.5 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE SMD-16
 $EndLIBRARY

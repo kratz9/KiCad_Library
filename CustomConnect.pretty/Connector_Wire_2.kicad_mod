@@ -1,0 +1,10 @@
+(module Connector_Wire_2 (layer F.Cu) (tedit 53FBF409)
+  (fp_text reference U1 (at 0 -7.62 90) (layer F.SilkS) hide
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
+  (fp_text value "12V OUT" (at -2.54 -11.43 90) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
+  (pad 1 thru_hole rect (at 0 -12.7) (size 1.8 1.8) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole rect (at 0 -10.16) (size 1.8 1.8) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
+)
